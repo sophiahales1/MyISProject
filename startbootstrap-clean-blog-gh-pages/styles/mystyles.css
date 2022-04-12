@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+}
+.bullet {
+    list-style-type: circle;
+    list-style-position: outside;
+}
+ul.
+ol.c {
+    list-style-type: upper-roman;
+    list-style-position: outside;
+}
